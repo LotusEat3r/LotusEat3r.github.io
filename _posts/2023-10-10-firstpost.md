@@ -5,7 +5,7 @@ author: Dallin Robison
 description: "An introduction to using a few of the plot functions in Mathematica"
 ---
 
-![Almost a Hypocycloid](({{ site.url }}{{ site.baseurl }}/assets/images/53hyp.jpg)
+![Almost a Hypocycloid]({{ site.url }}{{ site.baseurl }}/assets/images/53hyp.jpg)
 
 # Introduction
 
