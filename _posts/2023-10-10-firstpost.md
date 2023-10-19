@@ -2,10 +2,10 @@
 layout: post
 title: "Basic Plotting in Wolfram Mathematica"
 author: Dallin Robison
-description: "An introduction to using a few of the plot functions in Mathematica"
+description: "An introduction to a few of the plot functions in Mathematica"
 ---
 
-![Almost a Hypocycloid]({{ site.url }}{{ site.baseurl }}/assets/images/53hyp.jpg)
+![Lines from the Gamma Distribution]({{ site.url }}{{ site.baseurl }}/assets/images/lines.jpg)
 
 # Introduction
 
@@ -62,7 +62,7 @@ Instead of plotting a dataset, say you want to plot a function. Mathematica has 
 `Plot` is useful for visualizing curves. It takes as input a function and a range, and plots the function over that range. For instance, consider the function $f(x)=x^2$. If we wanted to focus on the center of this parabola, we would want to see values of $x \in (-2,2)$. The code for this would be:
 
 ```
-Plot[x^2, {x, -2, 2}
+Plot[x^2, {x, -2, 2}]
 ```
 
 The first argument is the function, and the second argument is a list providing the variable and the range you want to see of the function on that variable.
@@ -89,4 +89,4 @@ Show[plt1, plt2]
 
 # Conclusion
 
-Now that you have some exposure to these topics, go and interact with these things yourself. The best teacher is experience, so plot functions and datasets. You may find some interesting connections in your data.
+Now that you have some exposure to these topics, go and interact with these things yourself. The best teacher is experience, so plot functions and datasets. You may find some interesting connections in your data you might not have found otherwise.
