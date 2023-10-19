@@ -5,7 +5,7 @@ author: Dallin Robison
 description: "An introduction to using a few of the plot functions in Mathematica"
 ---
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/53hyp.jpg" alt="">{% endraw %}
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/53hyp.jpg" alt="">
 # Introduction
 
 Wolfram Mathematica is a powerful tool for data visualization. This article will go through some of the fundamentals of four plotting functions found in Mathematica: `Plot[]`, `ListPlot[]`, `Plot3D[]`, and `ListPlot3D[]`. Other plotting functions exist, and each of them works with a different kind of input, but we will restrict our focus to these four for the sake of simplicity.
