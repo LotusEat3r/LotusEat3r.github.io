@@ -30,7 +30,7 @@ We will use the `Import` function to import our data. `Import` takes a csv, tsv,
 Import[data.csv, "Table"]
 ```
 
-Mathematica tables are formed by sets of curly braces. Each set of braces creates a layer of the table. A one-dimensional table, or a list, follows the form `{a,b,c}`. A two-dimensional table follows the form `{{a,b,c},{d,e,f}}`. This specific table has two rows and three columns. Each element in the outer braces is a row element, and each element in the inner braces is a column element. A three-dimensional table follows the form `{{{a,b,c},{d,e,f}},{{g,h,i},{j,k,l}}}`. This table has two rows, three columns, and two layers.
+Mathematica tables are formed by sets of curly braces. Each set of braces creates a layer of the table, or in other words, nesting braces adds a dimension to your table. 
 
 ### Two-Dimensional Datasets
 
