@@ -5,7 +5,7 @@ author: Dallin Robison
 description: "An introduction to a few of the plot functions in Mathematica"
 ---
 
-![Lines from the Gamma Distribution]({{ site.url }}{{ site.baseurl }}/assets/images/lines.jpg)
+![Lines from the Gamma Distribution]({{ lotuseat3r.github.io }}/assets/images/lines.jpg)
 
 # Introduction
 
