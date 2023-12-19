@@ -19,6 +19,6 @@ This data is about human death. This is not something to be taken lightly, and I
 
 # Conclusion
 
-Using this data, I hope to be able to show that we are improving in our ability to fight these common diseases. I will look at trends in this data set to find out how the US is dealing with the flu and pneumonia. I will share the results of my analysis in [Part II](eda) of this post.
+Using this data, I hope to be able to show that we are improving in our ability to fight these common diseases. I will look at trends in this data set to find out how the US is dealing with the flu and pneumonia. I will share the results of my analysis in Part II of this post.
 
 [This]({{ lotuseat3r.github.io }}/assets/deaths.csv) is the data set. You can find more details in my github <a href="https://github.com/LotusEat3r/Project">repository</a>.
